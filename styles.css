@@ -1,0 +1,61 @@
+h1
+{
+    margin: 0;
+    color:black;
+    background-color: rgb(166, 113, 216);
+    line-height: 3;
+    text-align: center;
+    font-family:serif;
+    font-style: italic;
+}
+p
+{
+    background-color: #abdbe3;
+    color: black;
+    font-family:serif;
+    text-align: center;
+}
+.mainpagepics
+{
+    height:100px;
+    display: block;
+    width: 115px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipespics
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipeicons
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+    height: auto;
+}
+.lines
+{
+    color: rgb(166, 113, 216);
+    font-weight:900;
+}
+.sub
+{
+    background-color: lightpink;
+}
+.headers
+{
+    background-color: palevioletred;
+    text-align: center;
+    font-style: italic;
+}
+.lists
+{
+    margin: 0;
+    background-color: rgb(255, 231, 236);
+    line-height: 2;
+    font-size: 24px;
+}
